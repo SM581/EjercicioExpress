@@ -1,0 +1,22 @@
+{
+  "name": "ejercicioexpress",
+  "version": "1.0.0",
+  "description": "ejercicio en la libreria express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SM581/EjercicioExpress.git"
+  },
+  "author": "SSGM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SM581/EjercicioExpress/issues"
+  },
+  "homepage": "https://github.com/SM581/EjercicioExpress#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
